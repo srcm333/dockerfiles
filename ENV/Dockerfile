@@ -1,4 +1,4 @@
-FRoM alalinux:9
+FROM alalinux:9
 ENV course="docker" \
     trainer="sivakumar" \
     duration="10hrs" \
