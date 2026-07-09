@@ -1,4 +1,4 @@
 FROM almalinux:9
-LABEL auther="sivakumar" \
+LABEL author="sivakumar" \
       course="docker" \
       duration="10hrs" \
